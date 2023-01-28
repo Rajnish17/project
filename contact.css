@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.Contact-head {
+    height: 662px;
+    background-color: rgb(243, 244, 246);
+  }
+  .content{
+    display: flex;
+    justify-content: center;
+    
+  }
+  .contact-body input{
+  border-radius: 4px;
+  width: 600px;
+  height: 30px;
+  margin-top: 4px;
+
+  }
+  .contact-body{
+    margin-top:50px;
+    padding: 20px;
+     width: 600px;
+    height: 500px; 
+    background-color: rgb(238, 242, 243);
+    border-radius: 15px;
+    margin-left: 380px;
+
+    
+
+  }
+  .submitbutton{
+    width:70px;
+    height: 32px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+  }
+  .Textarea{
+    height: 200px;
+    width: 600px;
+  }
